@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Author- Feroz khan
+Author- Feroz khan<br>
 Location -Bangalore
